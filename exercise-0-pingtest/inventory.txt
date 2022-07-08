@@ -1,0 +1,2 @@
+ansibletarget1  ansible_host=192.168.150.3 ansible_ssh_pass=novirus=123
+ansibletarget2  ansible_host=192.168.150.4 ansible_ssh_pass=novirus=123
